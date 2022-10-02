@@ -34,13 +34,7 @@ const showCharacters = (resposeObj) => {
         characterCard.appendChild(characterImage);
         characterCard.appendChild(characterGender);
         rootDiv.appendChild(characterCard);
-
-    }
-
-    
-}
-
-
+}}
 
 getCharacters();
 
